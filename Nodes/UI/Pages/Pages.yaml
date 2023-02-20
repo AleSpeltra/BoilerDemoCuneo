@@ -12816,58 +12816,13 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 110.0
+      Value: 313.0
     - Name: LeftMargin
       Id: g=85a8d679da63920edad0f3d8cbf8b0e0
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 420.0
-  - Name: LED2
-    Id: g=56774b36ecdc037863e10dd29da930ec
-    Type: Led
-    Children:
-    - Name: Active
-      Id: g=74783d7eee7256ae13960c45e52f043f
-      Type: BaseDataVariableType
-      DataType: Boolean
-      Value: false
-    - Name: Width
-      Id: g=68234c917a5b237dff524d19cdc15aa5
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 50.0
-    - Name: Height
-      Id: g=7e6bf0da5d4de5e6d0f66ee8bdeb034a
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 50.0
-    - Name: HorizontalAlignment
-      Id: g=5ae4841ecfdec067959ccbd4584bf244
-      Type: BaseVariableType
-      DataType: HorizontalAlignment
-      ModellingRule: Optional
-      Value: 0
-    - Name: VerticalAlignment
-      Id: g=8ed312492571572eb788d14ac85360f4
-      Type: BaseVariableType
-      DataType: VerticalAlignment
-      ModellingRule: Optional
-      Value: 0
-    - Name: LeftMargin
-      Id: g=8fb285b24ef8783daa8ca0d2b414d1e7
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 1150.0
-    - Name: TopMargin
-      Id: g=93c81c1cda37654ec9d2d3c7db663369
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 610.0
+      Value: 190.0
   - Name: CasellaDiTesto1
     Id: g=e2c3b588caabbc77fdf3e5d336dd760c
     Type: TextBox

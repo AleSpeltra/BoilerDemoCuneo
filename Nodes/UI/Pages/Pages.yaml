@@ -12843,13 +12843,13 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 250.0
+      Value: 110.0
     - Name: LeftMargin
       Id: g=85a8d679da63920edad0f3d8cbf8b0e0
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 90.0
+      Value: 30.0
   - Name: LED2
     Id: g=56774b36ecdc037863e10dd29da930ec
     Type: Led
@@ -12888,37 +12888,10 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 50.0
+      Value: 1150.0
     - Name: TopMargin
       Id: g=93c81c1cda37654ec9d2d3c7db663369
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 520.0
-  - Name: CasellaDiTesto1
-    Id: g=e2c3b588caabbc77fdf3e5d336dd760c
-    Type: TextBox
-    Children:
-    - Name: Text
-      Id: g=3eac48107e74b26e492f414461d84e36
-      Type: BaseDataVariableType
-      DataType: LocalizedText
-      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
-    - Name: Width
-      Id: g=7cdf7028b5d66d39dcefba76e252f98c
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 110.0
-    - Name: LeftMargin
-      Id: g=8f655652582e703e72902e224ef48f16
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 690.0
-    - Name: TopMargin
-      Id: g=1423e5f197d27c8eaaa7b39397335afb
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 240.0
+      Value: 610.0
